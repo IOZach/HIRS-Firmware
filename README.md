@@ -51,4 +51,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-The program lets you store collection of Artists, Albums with high performane of AVL Tree, written in C#.
+The firmware lets you control hardware sensors, written in Java.
