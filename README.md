@@ -36,7 +36,7 @@ HIRS-Firmware that Powers Intelligient Home Regulator.
 
 Copyright (c) 2018, IOZack.
 
-Written by Zakaria Abushima <me@princez.co>
+Written by Zachariah Windett <zachwindett@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
