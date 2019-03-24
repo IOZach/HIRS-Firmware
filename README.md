@@ -34,9 +34,9 @@ You need Eclipse in device plugged with phidget sensors.
 
 HIRS-Firmware that Powers Intelligient Home Regulator.
 
-Copyright (c) 2018, IOZach.
+Copyright (c) 2018, PrinceZUK.
 
-Written by Zakaria Abushima <hello@princez.uk>
+Written by Zakaria Bin Faisal bin Abdulaziz Al Saud <hello@princez.uk>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
